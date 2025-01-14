@@ -6,5 +6,5 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "https://hc2024.cfd/api.php/provide/vod/at/xml/?ac=list"
+  "ext": "https://hc2024.cfd/api.php/provide/vod/?ac=list"
 }

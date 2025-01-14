@@ -1,0 +1,10 @@
+{
+  "key": "lvdou",
+  "name": "测试demo",
+  "type": 3,
+  "api": "csp_AppYsV2",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://hc2024.cfd/api.php/provide/vod/at/xml/?ac=list"
+}

@@ -4,7 +4,7 @@
       "key": "宏曦视界",
       "name": "宏曦视界",
       "type": 0,
-      "api": "https://hc2024.cfd/api.php/provide/vod/at/xml/?ac=list",
+      "api": "http://124.223.70.254:2008/api.php/provide/vod/at/xml/?ac=list",
       "playUrl": "https://jx.hc2024.cfd/api/jsonindex.php/?key=33KvhYyHcpQfKcPN3R&url=",
       "searchable": 1,
       "quickSearch": 1,

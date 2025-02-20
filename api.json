@@ -1,21 +1,13 @@
 {
   "sites": [
     {
-      "key": "宏曦视界",
-      "name": "宏曦视界",
-      "type": 0,
+      "key": "点播源",
+      "name": "点播源",
+      "type": 1,
       "api": "http://124.223.70.254:2006/api.php/provide/vod/?ac=list",
-      "playUrl": "https://jx.hc2024.cfd/api/jsonindex.php/?key=33KvhYyHcpQfKcPN3R&url=",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "电影",
-        "连续剧",
-        "综艺",
-        "动漫",
-        "短剧"
-      ]
+      "filterable": 1
     }
   ],
   "lives": [

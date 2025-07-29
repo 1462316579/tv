@@ -10,8 +10,8 @@
       "ext": "./lib/58动漫.js"
     },
     {
-      "key": "点播源",
-      "name": "点播源",
+      "key": "电影天堂",
+      "name": "电影天堂",
       "type": 0,
       "api": "https://caiji.dyttzyapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,

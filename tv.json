@@ -941,7 +941,39 @@
       "ext": {
         "url": "https://new.tkbot.fun",
         "dataKey": "d032c12876bc6848",
-        "dataIv": "d032c1287
+        "dataIv": "d032c12876bc6848",
+        "deviceId": "",
+        "version": "200"
+      }
+    },
+    {
+      "key": "白蛇",
+      "name": "白蛇｜APP",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "jar": "./aa37f393a1a3f5bfc98754306653bc51.jar;md5;aa37f393a1a3f5bfc98754306653bc51",
+      "ext": {
+        "url": "",
+        "site": "./lib/tengxunyun.txt",
+        "dataKey": "n3l2tx5jdkp9s2c8",
+        "dataIv": "n3l2tx5jdkp9s2c8",
+        "deviceId": "",
+        "version": "361"
+      }
+    },
+    {
+      "key": "移动",
+      "name": "移动｜APP",
+      "type": 3,
+      "api": "csp_YD",
+      "jar": "./aa37f393a1a3f5bfc98754306653bc51.jar;md5;aa37f393a1a3f5bfc98754306653bc51",
+      "searchable": 1,
+      "quickSearch": 1,
+      "style": {
+        "type": "list"
+      }
+    },
     {
       "key": "csp_J",
       "name": "饺子┃外剧",

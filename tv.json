@@ -53,7 +53,8 @@
             "name": "咕咕｜动漫",
             "type": 3,
             "quickSearch": 1,
-            "api": "csp_AppGet1",
+            "api": "csp_AppGet",
+            "jar": "./svip.jar",
             "ext": {
                 "url": "https://www.gugu3.com",
                 "dataKey": "nKfZ8KX6JTNWRzTD",
@@ -67,7 +68,8 @@
             "name": "曼波｜动漫",
             "type": 3,
             "quickSearch": 1,
-            "api": "csp_AppGet1",
+            "api": "csp_AppGet",
+            "jar": "./svip.jar",
             "ext": {
                 "url": "https://app.omofun1.top",
                 "dataKey": "66dc309cbeeca454",
@@ -81,6 +83,7 @@
             "name": "哆啦｜新番社",
             "type": 3,
             "api": "csp_XBPQ",
+            "jar": "./svip.jar",
             "style": {
                 "type": "list"
             },
@@ -98,6 +101,7 @@
             "name": "低端｜影视",
             "type": 3,
             "api": "csp_Ddys",
+            "jar": "./svip.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1

@@ -84,10 +84,10 @@
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "./svip.jar",
-            "style": {
-                "type": "list"
-            },
-            "ext": "./lib/哆啦新番社.json"
+            "jar": "./svip.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
     },
     {
             "key": "樱花动漫",
@@ -95,7 +95,10 @@
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "./svip.jar",
-            "ext": "./lib/樱花动漫.json"
+            "jar": "./svip.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
     },
     {
             "key": "低端影视",

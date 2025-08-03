@@ -33,6 +33,7 @@
       "type": 3,
       "playerType": "2",
       "api": "csp_Dm84",
+      "jar": "./PandaQ0725.jpg;md5;4bb05945b726cf06209fb3b562f6aa83",
       "ext": "https://dm84.net"
     },
     {
@@ -460,15 +461,12 @@
             }
     },
     {
-            "key": "绝对PY",
-            "name": "绝对｜APP",
-            "type": 3,
-            "api": "./lib/绝对影视.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
+      "key": "绝对影视",
+      "name": "绝对｜影视",
+      "type": 3,
+      "api": "csp_FourK",
+      "jar": "./aa37f393a1a3f5bfc98754306653bc51.jar;md5;aa37f393a1a3f5bfc98754306653bc51",
+      "ext": "https://www.4kvm.tv"
     },
     {
             "key": "火火影视",

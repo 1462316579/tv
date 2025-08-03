@@ -84,19 +84,18 @@
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "https://毒盒.com/tv/svip.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "style": {
+                "type": "list"
+            },
+            "ext": "./lib/哆啦新番社.json"
     },
     {
             "key": "樱花动漫",
             "name": "樱花｜动漫",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./svip.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "jar": "https://毒盒.com/tv/svip.jar",
+            "ext": "./lib/樱花动漫.json"
     },
     {
             "key": "低端影视",

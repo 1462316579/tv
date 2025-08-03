@@ -448,6 +448,7 @@
             "name": "可可｜影视",
             "type": 3,
             "api": "csp_XBPQ",
+            "jar": "./svip.jar",
             "ext": "./lib/可可影视.json"
     },
     {
@@ -493,6 +494,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_FreeOk"
+            "jar": "./svip.jar",
     },
     {
             "key": "光速",
@@ -526,53 +528,25 @@
             "quickSearch": 1
     },
     {
-            "key": "海纳影视",
-            "name": "海纳｜影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "./lib/海纳影视.json"
-    },
-    {
             "key": "面包影视",
             "name": "面包｜影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "./lib/面包影视.json"
+            "ext": "./lib/MBYS.json"
     },
     {
             "key": "永乐影视",
             "name": "永乐｜影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "./lib/永乐影视.json"
+            "ext": "./lib/YLYS.json"
     },
     {
             "key": "雪糕影视",
             "name": "雪糕｜影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "./lib/雪糕影视.json"
-    },
-    {
-            "key": "流光影视",
-            "name": "流光｜影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "./lib/流光影视.json"
-    },
-    {
-            "key": "流星影视",
-            "name": "流星｜影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "./lib/流星影视.json"
-    },
-    {
-            "key": "星辰影视",
-            "name": "星辰｜影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "./lib/星辰影视.json"
+            "ext": "./lib/XGYS.json"
     },
     {
             "key": "耐看影视",
@@ -600,27 +574,6 @@
             "api": "csp_SP360"
     },
     {
-            "key": "巴蜀影视",
-            "name": "巴蜀｜影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "./lib/巴蜀影视.json"
-    },
-    {
-            "key": "泥巴影视",
-            "name": "泥巴｜影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "./lib/泥巴影视.json"
-    },
-    {
-            "key": "随客影视",
-            "name": "随客｜影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "./lib/随客影视.json"
-    },
-    {
             "key": "外剧",
             "name": "外剧｜APP",
             "type": 3,
@@ -639,6 +592,7 @@
       "name": "潮流┃APP",
       "type": 3,
       "api": "csp_AppRJ",
+      "jar": "./svip.jar",
       "ext": "http://v.rbotv.cn"
     },
     {
@@ -646,6 +600,7 @@
       "name": "梦回┃APP",
       "type": 3,
       "api": "csp_AppRJ",
+      "jar": "./svip.jar",
       "ext": "http://v.lkuys.cn"
     },
     {
@@ -653,6 +608,7 @@
       "name": "星辉┃APP",
       "type": 3,
       "api": "csp_AppRJ",
+      "jar": "./svip.jar",
       "ext": "http://tt.ysdqjs.cn"
     },
     {
@@ -735,6 +691,7 @@
       "name": "行动┃APP",
       "type": 3,
       "api": "csp_AppGet",
+      "jar": "./svip.jar",
       "ext": {
         "url": "./lib/xfdd.txt",
         "dataKey": "xasdasdqwertyuio",
@@ -747,6 +704,7 @@
       "name": "一碗┃APP",
       "type": 3,
       "api": "csp_AppGet",
+      "jar": "./svip.jar",
       "ext": {
         "url": "./lib/89.txt",
         "dataKey": "#getapp@TMD@2025",
@@ -759,6 +717,7 @@
       "name": "猫抓┃APP",
       "type": 3,
       "api": "csp_AppGet",
+      "jar": "./svip.jar",
       "ext": {
         "url": "https://qjappcms.ll4k.xyz",
         "dataKey": "1yGA85sJ5STtE7uj",
@@ -771,6 +730,7 @@
       "name": "耗子┃APP",
       "type": 3,
       "api": "csp_AppGet",
+      "jar": "./svip.jar",
       "ext": {
         "url": "./lib/lanyingxmy.txt",
         "dataKey": "ca94b06ca359d80e",
@@ -783,6 +743,7 @@
       "name": "蔬菜┃APP",
       "type": 3,
       "api": "csp_AppGet",
+      "jar": "./svip.jar",
       "ext": {
         "url": "http://huohu.yihn.cc",
         "dataKey": "huohushipingetap",
@@ -795,6 +756,7 @@
       "name": "黑猫┃APP",
       "type": 3,
       "api": "csp_AppGet",
+      "jar": "./svip.jar",
       "ext": {
         "url": "https://dm.xxdm123.top:9991",
         "dataKey": "0fe3b5781782c621",
@@ -807,6 +769,7 @@
       "name": "金牌┃影视",
       "type": 3,
       "api": "csp_Jpys"
+      "jar": "./svip.jar",
     },
     {
       "key": "csp_Wwys",
@@ -820,13 +783,6 @@
       "name": "鸭梨┃影视",
       "type": 3,
       "api": "csp_KmeiJu"
-    },
-    {
-      "key": "csp_Xlys",
-      "name": "修罗┃磁力",
-      "type": 3,
-      "api": "csp_Xlys",
-      "ext": "https://xl01.com.de"
     },
     {
       "key": "csp_Tvyb",
@@ -891,6 +847,7 @@
       "name": "星牙┃短剧",
       "type": 3,
       "api": "csp_AppXY"
+      "jar": "./svip.jar",
     },
     {
       "key": "河马短剧",
@@ -913,23 +870,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2
-    },
-    {
-            "key": "短剧网",
-            "name": "短剧网｜短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "./lib/短剧网.json"
-    },
-    {
-            "key": "短剧屋",
-            "name": "短剧屋｜短剧",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/短剧屋.json"
     },
     {
             "key": "蓝莓短剧",

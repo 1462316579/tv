@@ -1,5 +1,5 @@
 {
-  "spider": "./svip.jar",
+  "spider": "./jar/svip.jar",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "warningText": "【宏曦影视】提示：📢长期维护切勿贩卖",
 "lives":[
@@ -9,7 +9,7 @@
       "key": "荐片",
       "name": "荐片┃影视",
       "api": "csp_Jianpian",
-      "jar": "./PandaQ0725.jpg;md5;4bb05945b726cf06209fb3b562f6aa83",
+      "jar": "./jar/PandaQ0725.jpg;md5;4bb05945b726cf06209fb3b562f6aa83",
       "type": 3,
       "playerType": "2"
     },
@@ -41,7 +41,6 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-            "jar": "./svip.jar",
             "ext": {
                 "url": "https://www.gugu3.com",
                 "dataKey": "nKfZ8KX6JTNWRzTD",
@@ -56,7 +55,6 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-            "jar": "./svip.jar",
             "ext": {
                 "url": "https://app.omofun1.top",
                 "dataKey": "66dc309cbeeca454",
@@ -95,35 +93,6 @@
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/Anime1.js"
-    },
-    {
-      "key": "稀饭动漫",
-      "name": "稀饭｜动漫",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "",
-        "site": "./lib/getapp.txt",
-        "dataKey": "1yZ2Spn9krnzVKoC",
-        "dataIv": "1yZ2Spn9krnzVKoC",
-        "deviceId": "",
-        "version": ""
-      }
-    },
-    {
-      "key": "米饭动漫",
-      "name": "米饭｜动漫",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://45.43.29.111:9527",
-        "dataKey": "GETMIFUNGEIMIFUN",
-        "dataIv": "GETMIFUNGEIMIFUN",
-        "deviceId": "",
-        "version": ""
-      }
     },
     {
       "key": "次元动漫",
@@ -182,39 +151,11 @@
       }
     },
     {
-      "key": "樱花动漫",
-      "name": "樱花｜动漫",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./lib/YHDM.json"
-    },
-    {
-      "key": "好看动漫",
-      "name": "好看｜动漫",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/HKDM.js"
-    },
-    {
       "key": "奇米动漫",
       "name": "奇米｜动漫",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/QMDM.js"
-    },
-    {
-      "key": "花子动漫",
-      "name": "花子｜动漫",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/HZDM.js"
-    },
-    {
-      "key": "樱花动漫",
-      "name": "樱花｜动漫",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/YHDM.js"
     },
     {
       "key": "动画片",
@@ -263,7 +204,6 @@
             "name": "低端｜影视",
             "type": 3,
             "api": "csp_Ddys",
-            "jar": "./svip.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1

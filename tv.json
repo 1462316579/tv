@@ -94,6 +94,7 @@
             "name": "樱花｜动漫",
             "type": 3,
             "api": "csp_XBPQ",
+            "jar": "./svip.jar",
             "ext": "./lib/樱花动漫.json"
     },
     {

@@ -870,6 +870,27 @@
             "playerType": 2
     },
     {
+      "key": "星芽短剧",
+      "name": "星芽｜短剧",
+      "type": 3,
+      "api": "csp_AppXY",
+      "jar": "./aa37f393a1a3f5bfc98754306653bc51.jar;md5;aa37f393a1a3f5bfc98754306653bc51",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "甜圈短剧",
+      "name": "甜圈｜短剧",
+      "type": 3,
+      "api": "./lib/TQDJ.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
+    {
       "key": "csp_SP360",
       "name": "360┃官源",
       "type": 3,

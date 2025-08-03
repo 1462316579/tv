@@ -826,6 +826,16 @@
       "filterable": 1
     },
     {
+      "key": "星芽短剧",
+      "name": "星芽｜短剧",
+      "type": 3,
+      "api": "csp_AppXY",
+      "jar": "./aa37f393a1a3f5bfc98754306653bc51.jar;md5;aa37f393a1a3f5bfc98754306653bc51",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
       "key": "河马短剧",
       "name": "河马┃短剧",
       "type": 3,
@@ -868,16 +878,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "playerType": 2
-    },
-    {
-      "key": "星芽短剧",
-      "name": "星芽｜短剧",
-      "type": 3,
-      "api": "csp_AppXY",
-      "jar": "./aa37f393a1a3f5bfc98754306653bc51.jar;md5;aa37f393a1a3f5bfc98754306653bc51",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0
     },
     {
       "key": "csp_SP360",

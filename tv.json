@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/svip.jar",
+  "spider": "./svip.jar",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "warningText": "【宏曦影视】提示：📢长期维护切勿贩卖",
 "lives":[
@@ -9,7 +9,7 @@
       "key": "荐片",
       "name": "荐片┃影视",
       "api": "csp_Jianpian",
-      "jar": "./jar/PandaQ0725.jpg;md5;4bb05945b726cf06209fb3b562f6aa83",
+      "jar": "./PandaQ0725.jpg;md5;4bb05945b726cf06209fb3b562f6aa83",
       "type": 3,
       "playerType": "2"
     },

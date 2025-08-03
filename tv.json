@@ -707,6 +707,7 @@
       "name": "热播｜APP",
       "type": 3,
       "api": "csp_AppRJ",
+      "jar": "./aa37f393a1a3f5bfc98754306653bc51.jar;md5;aa37f393a1a3f5bfc98754306653bc51",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -720,6 +721,7 @@
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
+      "jar": "./aa37f393a1a3f5bfc98754306653bc51.jar;md5;aa37f393a1a3f5bfc98754306653bc51",
       "ext": {
         "url": "",
         "site": "./lib/mfys.txt",
@@ -735,6 +737,7 @@
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
+      "jar": "./aa37f393a1a3f5bfc98754306653bc51.jar;md5;aa37f393a1a3f5bfc98754306653bc51",
       "ext": {
         "url": "https://appcms.xy4k.com",
         "site": "",
@@ -750,6 +753,7 @@
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
+      "jar": "./aa37f393a1a3f5bfc98754306653bc51.jar;md5;aa37f393a1a3f5bfc98754306653bc51",
       "ext": {
         "url": "http://154.37.220.65",
         "dataKey": "uI1TkPJC8B46AyN3",
@@ -764,6 +768,7 @@
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
+      "jar": "./aa37f393a1a3f5bfc98754306653bc51.jar;md5;aa37f393a1a3f5bfc98754306653bc51",
       "ext": {
         "url": "http://122.228.193.2:9654",
         "dataKey": "ca94b06ca3c7d80e",
@@ -778,6 +783,7 @@
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
+      "jar": "./aa37f393a1a3f5bfc98754306653bc51.jar;md5;aa37f393a1a3f5bfc98754306653bc51",
       "ext": {
         "url": "",
         "site": "./lib/xfdd.txt",
@@ -793,6 +799,7 @@
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet2",
+      "jar": "./aa37f393a1a3f5bfc98754306653bc51.jar;md5;aa37f393a1a3f5bfc98754306653bc51",
       "ext": {
         "url": "",
         "site": "./lib/lanyingxmy.txt",
@@ -808,6 +815,7 @@
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet2",
+      "jar": "./aa37f393a1a3f5bfc98754306653bc51.jar;md5;aa37f393a1a3f5bfc98754306653bc51",
       "ext": {
         "url": "https://qjappcms.ll4k.xyz",
         "dataKey": "1yGA85sJ5STtE7uj",
@@ -822,6 +830,7 @@
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet2",
+      "jar": "./aa37f393a1a3f5bfc98754306653bc51.jar;md5;aa37f393a1a3f5bfc98754306653bc51",
       "ext": {
         "url": "https://newappcms.cs4k.top",
         "dataKey": "Z98KXaLtO2wC1Pte",
@@ -836,6 +845,7 @@
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet2",
+      "jar": "./aa37f393a1a3f5bfc98754306653bc51.jar;md5;aa37f393a1a3f5bfc98754306653bc51",
       "ext": {
         "url": "",
         "site": "./lib/1.json",
@@ -850,6 +860,7 @@
       "name": "米诺｜APP",
       "type": 3,
       "api": "csp_AppGet",
+      "jar": "./aa37f393a1a3f5bfc98754306653bc51.jar;md5;aa37f393a1a3f5bfc98754306653bc51",
       "ext": {
         "url": "http://www.milkidc.cn",
         "dataKey": "20c79c979da8db0f",
@@ -864,6 +875,7 @@
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
+      "jar": "./aa37f393a1a3f5bfc98754306653bc51.jar;md5;aa37f393a1a3f5bfc98754306653bc51",
       "ext": {
         "url": "",
         "site": "./lib/1.json",
@@ -879,6 +891,7 @@
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
+      "jar": "./aa37f393a1a3f5bfc98754306653bc51.jar;md5;aa37f393a1a3f5bfc98754306653bc51",
       "ext": {
         "url": "",
         "site": "./lib/1.txt",
@@ -894,6 +907,7 @@
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
+      "jar": "./aa37f393a1a3f5bfc98754306653bc51.jar;md5;aa37f393a1a3f5bfc98754306653bc51",
       "ext": {
         "url": "https://appcms.ll4k.xyz",
         "dataKey": "NiDGaKiVnkO3QX1Q",
@@ -908,6 +922,7 @@
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
+      "jar": "./aa37f393a1a3f5bfc98754306653bc51.jar;md5;aa37f393a1a3f5bfc98754306653bc51",
       "ext": {
         "url": "https://apiapplbys.lbys.app:5678",
         "dataKey": "apiapplbyskey168",
@@ -922,6 +937,7 @@
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
+      "jar": "./aa37f393a1a3f5bfc98754306653bc51.jar;md5;aa37f393a1a3f5bfc98754306653bc51",
       "ext": {
         "url": "https://new.tkbot.fun",
         "dataKey": "d032c12876bc6848",

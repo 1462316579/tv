@@ -83,7 +83,6 @@
             "name": "哆啦｜新番社",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://毒盒.com/tv/svip.jar",
             "style": {
                 "type": "list"
             },
@@ -94,7 +93,6 @@
             "name": "樱花｜动漫",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://毒盒.com/tv/svip.jar",
             "ext": "./lib/樱花动漫.json"
     },
     {

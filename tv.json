@@ -880,17 +880,6 @@
       "filterable": 0
     },
     {
-      "key": "甜圈短剧",
-      "name": "甜圈｜短剧",
-      "type": 3,
-      "api": "./lib/TQDJ.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2
-    },
-    {
       "key": "csp_SP360",
       "name": "360┃官源",
       "type": 3,
